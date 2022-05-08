@@ -1,5 +1,5 @@
 # Github-Profile
-
+```
 import SoftwareDeveloper from 'max - gorodesky';
 
 class Bio extends SoftwareDeveloper{
@@ -13,4 +13,5 @@ class Skills extends SoftwareDeveloper{
   this.languages    = ['JavaScript', 'HTML', 'CSS'];
   this.database     = ['MySQL', 'MongoDB'];
   this.technologies = ['React', 'GraphQL', 'Bootstrap', 'jQuery', 'Express'];
- }
+}
+```

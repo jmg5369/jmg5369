@@ -1,16 +1,15 @@
-### Hi there 👋
+# Github-Profile
 
-<!--
-**jmg5369/jmg5369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import SoftwareDeveloper from 'max - gorodesky';
 
-Here are some ideas to get you started:
+class Bio extends SoftwareDeveloper{
+  this.name         = 'Max Gorodesky';
+  this.title        = 'Full Stack Developer';
+  this.location     = 'Colorado';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper{
+  this.languages    = ['JavaScript', 'Python', 'HTML', 'CSS'];
+  this.database     = ['MySQL', 'MongoDB'];
+  this.technologies = ['React', 'GraphQL', 'Bootstrap', 'jQuery', 'Google API', 'Material-UI', 'JWT'];
+ }

@@ -7,6 +7,7 @@ class Bio extends SoftwareDeveloper{
   this.title        = 'Full Stack Developer';
   this.location     = 'Colorado';
   this.favoriteFood = 'Tuna Poke';
+  this.hobbies      = ['Weight lifting', 'Video games', 'Camping', 'Hiking', 'Snowboarding', 'Anything tech'];
 }
 
 class Skills extends SoftwareDeveloper{

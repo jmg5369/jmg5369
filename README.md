@@ -1,4 +1,3 @@
-# Github-Profile
 ```
 import SoftwareDeveloper from 'max - gorodesky';
 
